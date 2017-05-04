@@ -1,5 +1,7 @@
 #WSO2 API Management Server
 
+[![Build Status](https://travis-ci.org/javierjeronimo/product-apim.svg?branch=master)](https://travis-ci.org/javierjeronimo/product-apim)
+[![Code Climate](https://codeclimate.com/github/javierjeronimo/product-apim/badges/gpa.svg)](https://codeclimate.com/github/javierjeronimo/product-apim)
 
 
 Running Samples
