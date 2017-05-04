@@ -7,6 +7,7 @@
 | Branch | Build Status |
 | :------------ |:-------------
 | master | [![Build Status](https://wso2.org/jenkins/job/product-apim/badge/icon)](https://wso2.org/jenkins/job/product-apim) |
+| 2.1.x  | [![Build Status](https://travis-ci.org/javierjeronimo/product-apim.svg?branch=2.1.x)](https://travis-ci.org/javierjeronimo/product-apim) |
 
 [![Join the chat at https://gitter.im/wso2/product-apim](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/wso2/product-apim?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ---
